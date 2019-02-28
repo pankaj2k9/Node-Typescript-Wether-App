@@ -1,4 +1,4 @@
-## Skeleton for Node.js applications written in TypeScript
+##  Node.js Weather and Currentime App written in TypeScript 
 
 ### Development
 ```bash
